@@ -4,7 +4,7 @@ if false
   require 'rubygems'
   require 'jr'
 else
-  $: << File.dirname(__FILE__) + '../lib/'
+  $: << File.dirname(__FILE__) + '/../lib/'
   require 'jr'
 end
 
