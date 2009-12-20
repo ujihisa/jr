@@ -1,7 +1,7 @@
 .autotest
 History.txt
 Manifest.txt
-README.txt
+README.md
 Rakefile
 bin/jr
 lib/jr.rb
